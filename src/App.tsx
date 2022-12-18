@@ -11,8 +11,8 @@ export default function App() {
     useState(0);
   const [laps, setLaps] = useState<number[]>([]);
 
-  const [desiredSeconds, setDesiredSeconds] = useState(5);
-  const [desiredTenths, setDesiredTenths] = useState(0);
+  const [desiredSeconds, setDesiredSeconds] = useState(16);
+  const [desiredTenths, setDesiredTenths] = useState(5);
   const [desiredLapTimeInMilliSeconds, setDesiredLapTimeInMilliSeconds] =
     useState(0);
   const [
