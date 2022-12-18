@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/velodromelaptimer/static/css/main.f53d6846.css",
+    "main.js": "/velodromelaptimer/static/js/main.a68c52af.js",
+    "static/js/787.35e898b5.chunk.js": "/velodromelaptimer/static/js/787.35e898b5.chunk.js",
+    "index.html": "/velodromelaptimer/index.html",
+    "main.f53d6846.css.map": "/velodromelaptimer/static/css/main.f53d6846.css.map",
+    "main.a68c52af.js.map": "/velodromelaptimer/static/js/main.a68c52af.js.map",
+    "787.35e898b5.chunk.js.map": "/velodromelaptimer/static/js/787.35e898b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f53d6846.css",
+    "static/js/main.a68c52af.js"
+  ]
+}
