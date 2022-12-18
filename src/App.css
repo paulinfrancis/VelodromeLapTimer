@@ -33,6 +33,7 @@ label+label {
   justify-content: center;
   flex-direction: column;
   font-size: 30vw;
+  font-family: monospace;
 }
 
 #timer.over {
@@ -54,6 +55,7 @@ label+label {
   position: fixed;
   right: 0;
   color: black;
+  font-family: monospace;
 }
 
 #buttons {
